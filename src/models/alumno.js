@@ -14,4 +14,4 @@ class Alumno{
     }
 }
 
-export {Alumno};
+export {Alumno, ToString};
